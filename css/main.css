@@ -1,8 +1,14 @@
-.responsive-img{
+.wrap{
     width: 100%;
     height: auto;
     max-width: 1080px;
     display: block;
     margin: 0 auto;
+}
+.link-img{
+
+}
+.none-img{
+
 }
 img{max-width: 100%;}
